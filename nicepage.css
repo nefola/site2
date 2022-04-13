@@ -36357,8 +36357,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 134px;
-  height: 64px;
+  width: 131px;
+  height: 62px;
   margin: 7px auto 0;
 }
 
@@ -36384,6 +36384,10 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
+  .u-header .u-image-1 {
+    width: 131px;
+  }
+
   .u-header .u-text-1 {
     margin-top: -58px;
   }
