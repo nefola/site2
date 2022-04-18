@@ -48,4 +48,9 @@
   .u-section-1 .u-text-2 {
     margin-right: 43px;
   }
+}@font-face {
+  font-family: 'OCRAEXT';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/OCRAEXT.TTF);
 }
